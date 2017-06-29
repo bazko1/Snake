@@ -53,12 +53,6 @@ public class Board extends JFrame {
 
 
 
-
-
-
-
-
-
             g.setColor(Color.white);
             g.setFont(font);
             g.drawString("Score: 0" ,20,55 );
